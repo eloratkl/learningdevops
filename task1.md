@@ -1,6 +1,7 @@
 # Task 1: To deploy a static HTML page which a user can access
 
 s3 bucket: http://demowebsite-task1.s3-website-ap-southeast-1.amazonaws.com/
+
 cloudfront: https://d2fj33c3isd9xv.cloudfront.net/
 
 Here are some of the steps that I've taken to complete this task.
