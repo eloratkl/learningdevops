@@ -8,6 +8,7 @@ cloudfront: https://d2fj33c3isd9xv.cloudfront.net/
 # 2. Created a S3 bucket to upload the resources of my TO-DO-LIST page (task1.html, style.css, main.js).
 # 3. Enabled static website hosting, allowing public access to the bucket and updating the bucket policy to allow read access to everyone.
 # 4. Created a cloudfront distribution to enable files hosted on S3 to be served effciently.
+# 5. Enabled HTTPS with AWS Certificate Manager
 
 # Challenges/Roadblocks encountered in Task 1
 
