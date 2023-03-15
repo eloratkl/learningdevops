@@ -17,3 +17,10 @@ Here are some of the steps that I've taken to complete this task.
 2. Unable to redeem a free domain under freenom and other free domain services. Hence, did not pursue the route 53 path of registering domain, configuring route 53 for DNS(domain name system) service
 3. Dilemma on what is needed and also weighing the free and paid options
 4. Had trouble linking the architecture together
+
+# Reflection Questions in Task 1
+1. What is a cache?
+2. What is an edge location?
+3. What is a distribution? What does it do?
+4. What is the overarching term for S3, Cloudfront services?
+5. What are the differences between S3 and Cloudfront? What are the benefits that Cloudfront have that makes it better than solely relying on S3?
