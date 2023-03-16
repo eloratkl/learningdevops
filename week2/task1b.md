@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=QSvw50mMQaQ
 
 
-# Steps taken -- Automation of handling S3 bucket (Approach adopted using Python boto3)
+# Automation of handling S3 bucket (Approach adopted using Python boto3)
 Pre-requisites involved
 1. Install and configure the AWS SDK for Python (Boto3) \
 https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-python.html#sample-python-sdk
@@ -14,20 +14,21 @@ https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up
    AWS Secret Access Key [None]: secretkey\
    Default region name [None]: region nearest to you\
    Default output format [None]: json
-
-4. List and create a S3 bucket \
+   
+# Steps taken
+1. List and create a S3 bucket \
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-creating-buckets.html
 
-5. Upload file in the S3 bucket \
+2. Upload file in the S3 bucket \
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html
 
-6. Download file from the S3 bucket \
+3. Download file from the S3 bucket \
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html
 
-7. Delete file from S3 bucket \
+4. Delete file from S3 bucket \
 https://predictivehacks.com/?all-tips=how-to-delete-an-s3-object
 
-8. Delete the S3 bucket \
+5. Delete the S3 bucket \
 https://dheeraj3choudhary.com/listcreate-and-delete-s3-buckets-using-python-boto3-script
 
 # Challenges / Roadblocks encountered 
