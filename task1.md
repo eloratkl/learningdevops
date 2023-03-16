@@ -8,8 +8,12 @@ Here are some of the steps that I've taken to complete this task.
 1. Created a simple to-do-list with HTML, minimal CSS and some javascript with the aid of an online tutorial from CodeDuck.
 2. Created a S3 bucket to upload the resources of my TO-DO-LIST page (task1.html, style.css, main.js).
 3. Enabled static website hosting, allowing public access to the bucket and updating the bucket policy to allow read access to everyone.
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/EnableWebsiteHosting.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html
+
 4. Created a cloudfront distribution to enable files hosted on S3 to be served effciently.
 5. Enabled HTTPS with AWS Certificate Manager
+https://www.stormit.cloud/blog/setup-an-amazon-cloudfront-distribution-with-ssl-custom-domain-and-s3/
 
 # Challenges/Roadblocks encountered in Task 1
 
