@@ -31,6 +31,8 @@ https://predictivehacks.com/?all-tips=how-to-delete-an-s3-object
 5. Delete the S3 bucket \
 https://dheeraj3choudhary.com/listcreate-and-delete-s3-buckets-using-python-boto3-script
 
-# Challenges / Roadblocks encountered 
+# Challenges / Roadblocks encountered in Task 1b
 1. Having to figure out the where to get the access key id, secret access key, permissions, policies in order to access the CRUD operations in S3 bucket
 2. To call the create_bucket() function, need to specify 2 arguments -- bucket_name, region for it to work
+
+# Reflection Questions in Task 1b
