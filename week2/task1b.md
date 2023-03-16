@@ -15,8 +15,20 @@ https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up
    Default region name [None]: region nearest to you\
    Default output format [None]: json
 
-4. List and create a s3 bucket \
+4. List and create a S3 bucket \
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-creating-buckets.html
+
+5. Upload file in the S3 bucket \
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html
+
+6. Download file from the S3 bucket \
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html
+
+7. Delete file from S3 bucket \
+https://predictivehacks.com/?all-tips=how-to-delete-an-s3-object
+
+8. Delete the S3 bucket
+https://dheeraj3choudhary.com/listcreate-and-delete-s3-buckets-using-python-boto3-script
 
 # Challenges / Roadblocks encountered 
 1. Having to figure out the where to get the access key id, secret access key, permissions, policies in order to access the CRUD operations in S3 bucket
