@@ -1,4 +1,4 @@
-# Task 1: To deploy a static HTML page which a user can access
+# Task 1A: To deploy a static HTML page which a user can access
 
 s3 bucket: http://demowebsite-task1.s3-website-ap-southeast-1.amazonaws.com/
 
