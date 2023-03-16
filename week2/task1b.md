@@ -27,7 +27,7 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-downloa
 7. Delete file from S3 bucket \
 https://predictivehacks.com/?all-tips=how-to-delete-an-s3-object
 
-8. Delete the S3 bucket
+8. Delete the S3 bucket \
 https://dheeraj3choudhary.com/listcreate-and-delete-s3-buckets-using-python-boto3-script
 
 # Challenges / Roadblocks encountered 
