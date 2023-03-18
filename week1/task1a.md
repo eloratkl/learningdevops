@@ -23,8 +23,14 @@ https://www.stormit.cloud/blog/setup-an-amazon-cloudfront-distribution-with-ssl-
 4. Had trouble linking the architecture together
 
 # Reflection Questions in Task 1A
-1. What is a cache?
-2. What is an edge location?
-3. What is a distribution? What does it do?
-4. What is the overarching term for S3, Cloudfront services?
-5. What are the differences between S3 and Cloudfront? What are the benefits that Cloudfront have that makes it better than solely relying on S3?
+1. What is a cache? How does it work?
+A cache is a high-speed data storage layer which stores data which is transient in nature for the purposes of serving it faster compared to accessing data's primary storage location when future requests for said data is received. The data in a cache is generally stored in fast access hardware such as RAM(Random-Access Memory), and may be used in correlation with a software component. The primary purpose of cache is to increase data retrieval performance by reducing the need to access the underlying slower storage layer.
+
+2. What is an edge location? 
+
+3. What is Amazon CloudFront? How does it work?
+It is a web service (content delivery netowrk) that speeds up distribution of your static and dynamic web content such as .html, .css, .js and image files to your users. It delivers your content through a worldwide network of data centers called edge locations. When a user requests content that you're serving with CloudFront, the request is routed to the edge location that provides the lowest latency(time delay), so that content is delivered with the best possible performance.
+
+4. What is a distribution? What does it do?
+5. What is the overarching term for S3, Cloudfront services?
+6. What are the differences between S3 and Cloudfront? What are the benefits that Cloudfront have that makes it better than solely relying on S3?
