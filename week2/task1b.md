@@ -31,8 +31,18 @@ https://predictivehacks.com/?all-tips=how-to-delete-an-s3-object
 5. Delete the S3 bucket \
 https://dheeraj3choudhary.com/listcreate-and-delete-s3-buckets-using-python-boto3-script
 
+
+
 # Challenges / Roadblocks encountered in Task 1b
 1. Having to figure out the where to get the access key id, secret access key, permissions, policies in order to access the CRUD operations in S3 bucket
 2. To call the create_bucket() function, need to specify 2 arguments -- bucket_name, region for it to work
 
 # Reflection Questions in Task 1b
+1. What is terraform? What is the purpose of using Terraform?\
+2. What is AWS access key?\
+3. How to authenticate against AWS?\
+4. What makes Terraform so special?\
+5. What is Terraform init?\
+6. What is Terraform plan?\
+7. What is Terraform apply?\
+8. What is Terraform destroy?\
